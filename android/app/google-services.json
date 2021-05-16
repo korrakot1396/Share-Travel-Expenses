@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "679424840257",
+    "firebase_url": "https://sharetravelexpenses.firebaseio.com",
+    "project_id": "sharetravelexpenses",
+    "storage_bucket": "sharetravelexpenses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679424840257:android:5638a4baeec2a0ccd06cc0",
+        "android_client_info": {
+          "package_name": "com.sharetravelexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679424840257-vpvols25009583nppv99ba5pofn7b808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgaMYcS62qXhRNHRq1atMWUCcHyAjZrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679424840257-vpvols25009583nppv99ba5pofn7b808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679424840257:android:64511a14ad97e3fdd06cc0",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679424840257-vpvols25009583nppv99ba5pofn7b808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgaMYcS62qXhRNHRq1atMWUCcHyAjZrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679424840257-vpvols25009583nppv99ba5pofn7b808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
