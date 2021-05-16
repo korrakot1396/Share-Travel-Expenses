@@ -13,3 +13,11 @@
 4. Run คำสั่ง npm install เพื่อติดตั้ง project
 5. เปิด Android Emulator ขึ้นมาเตรียมพร้อม (กรณีที่ตั้งค่า path environment variables ไว้เรียบร้อยแล้ว)
 6. Run คำสั่ง react-native run-android เพื่อ Run project ผ่านตัว Android Emulator
+
+## ตัวอย่างแอปพลิเคชัน
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/1.png)
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/2.png)
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/3.png)
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/4.png)
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/5.png)
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/6.png)
