@@ -15,7 +15,9 @@
 6. Run คำสั่ง react-native run-android เพื่อ Run project ผ่านตัว Android Emulator
 
 ## ตัวอย่างแอปพลิเคชัน
-### หน้าโหลดแอปพลิเคชัน
+### 1.) หน้าโหลดแอปพลิเคชัน
 ![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/1.png)
-### หน้าโหลดเข้าสุ่ระบบ
+### 2.) หน้าโหลดเข้าสุ่ระบบ
 ![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/2.png)
+### 3.) หน้าโหลดเข้าสุ่ระบบ
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/3.png)
