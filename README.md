@@ -21,3 +21,9 @@
 ![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/2.png)
 ### 3.) หน้าหลัก
 ![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/6.png)
+### 4.) แถบเมนูบาร์
+https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/7.png
+### 5.) หน้าค้นหาการเดินทาง
+https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/8.png
+### 6.) หน้าเข้ารายละเอียดการเดินทาง
+https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/9.png
