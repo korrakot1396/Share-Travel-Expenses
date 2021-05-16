@@ -19,5 +19,5 @@
 ![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/1.png)
 ### 2.) หน้าโหลดเข้าสุ่ระบบ
 ![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/2.png)
-### 3.) หน้าโหลดเข้าสุ่ระบบ
-![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/3.png)
+### 3.) หน้าหลัก
+![](https://github.com/korrakot1396/Share-Travel-Expenses/blob/main/assets/images/6.png)
